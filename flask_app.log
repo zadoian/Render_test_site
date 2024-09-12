@@ -1,0 +1,573 @@
+2024-09-12 09:46:57,154 - WARNING -  * Debugger is active!
+2024-09-12 09:46:57,157 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 09:47:06,093 - INFO - Request to greet function
+2024-09-12 09:47:06,093 - INFO - No parameters
+2024-09-12 09:47:06,095 - INFO - 127.0.0.1 - - [12/Sep/2024 09:47:06] "GET /greet HTTP/1.1" 200 -
+2024-09-12 09:47:07,358 - INFO - Request to greet function
+2024-09-12 09:47:07,358 - INFO - No parameters
+2024-09-12 09:47:07,358 - INFO - 127.0.0.1 - - [12/Sep/2024 09:47:07] "GET /greet HTTP/1.1" 200 -
+2024-09-12 09:47:11,940 - INFO - Request to home function
+2024-09-12 09:47:11,940 - INFO - No parameters
+2024-09-12 09:47:11,941 - INFO - 127.0.0.1 - - [12/Sep/2024 09:47:11] "GET / HTTP/1.1" 200 -
+2024-09-12 10:23:35,137 - INFO -  * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+2024-09-12 10:23:35,583 - WARNING -  * Debugger is active!
+2024-09-12 10:23:35,585 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:23:36,626 - INFO -  * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+2024-09-12 10:30:05,038 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 10:30:05,038 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 10:30:05,040 - INFO -  * Restarting with stat
+2024-09-12 10:30:05,353 - WARNING -  * Debugger is active!
+2024-09-12 10:30:05,355 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:30:52,444 - INFO -  * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+2024-09-12 10:30:52,485 - INFO -  * Restarting with stat
+2024-09-12 10:30:52,828 - WARNING -  * Debugger is active!
+2024-09-12 10:30:52,830 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:31:05,125 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 10:31:05,126 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 10:31:05,128 - INFO -  * Restarting with stat
+2024-09-12 10:31:05,440 - WARNING -  * Debugger is active!
+2024-09-12 10:31:05,442 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:31:48,465 - INFO - 127.0.0.1 - - [12/Sep/2024 10:31:48] "GET / HTTP/1.1" 200 -
+2024-09-12 10:31:49,642 - INFO - 127.0.0.1 - - [12/Sep/2024 10:31:49] "GET / HTTP/1.1" 200 -
+2024-09-12 10:31:50,240 - INFO - 127.0.0.1 - - [12/Sep/2024 10:31:50] "GET / HTTP/1.1" 200 -
+2024-09-12 10:31:50,687 - INFO - 127.0.0.1 - - [12/Sep/2024 10:31:50] "GET / HTTP/1.1" 200 -
+2024-09-12 10:31:51,030 - INFO - 127.0.0.1 - - [12/Sep/2024 10:31:51] "GET / HTTP/1.1" 200 -
+2024-09-12 10:32:00,184 - INFO - 127.0.0.1 - - [12/Sep/2024 10:32:00] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:32:02,454 - INFO - 127.0.0.1 - - [12/Sep/2024 10:32:02] "OPTIONS /select_category HTTP/1.1" 200 -
+2024-09-12 10:32:02,460 - WARNING - Invalid category selected: 2
+2024-09-12 10:32:02,461 - INFO - 127.0.0.1 - - [12/Sep/2024 10:32:02] "[31m[1mPOST /select_category HTTP/1.1[0m" 400 -
+2024-09-12 10:32:03,794 - WARNING - Invalid category selected: 3
+2024-09-12 10:32:03,795 - INFO - 127.0.0.1 - - [12/Sep/2024 10:32:03] "[31m[1mPOST /select_category HTTP/1.1[0m" 400 -
+2024-09-12 10:32:04,891 - WARNING - Invalid category selected: 1
+2024-09-12 10:32:04,893 - INFO - 127.0.0.1 - - [12/Sep/2024 10:32:04] "[31m[1mPOST /select_category HTTP/1.1[0m" 400 -
+2024-09-12 10:35:27,759 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 10:35:27,759 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 10:35:27,761 - INFO -  * Restarting with stat
+2024-09-12 10:35:28,080 - WARNING -  * Debugger is active!
+2024-09-12 10:35:28,082 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:36:19,345 - INFO -  * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+2024-09-12 10:36:19,387 - INFO -  * Restarting with stat
+2024-09-12 10:36:19,735 - WARNING -  * Debugger is active!
+2024-09-12 10:36:19,737 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:36:24,429 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-09-12 10:36:24,429 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 10:36:24,430 - INFO -  * Restarting with stat
+2024-09-12 10:36:24,751 - WARNING -  * Debugger is active!
+2024-09-12 10:36:24,753 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:36:32,973 - INFO -  * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+2024-09-12 10:36:33,014 - INFO -  * Restarting with stat
+2024-09-12 10:36:33,357 - WARNING -  * Debugger is active!
+2024-09-12 10:36:33,359 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:36:36,438 - INFO -  * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+2024-09-12 10:36:36,478 - INFO -  * Restarting with stat
+2024-09-12 10:36:36,836 - WARNING -  * Debugger is active!
+2024-09-12 10:36:36,839 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:36:45,056 - INFO -  * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+2024-09-12 10:36:45,100 - INFO -  * Restarting with stat
+2024-09-12 10:36:45,459 - WARNING -  * Debugger is active!
+2024-09-12 10:36:45,462 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:37:04,424 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 10:37:04,424 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 10:37:04,425 - INFO -  * Restarting with stat
+2024-09-12 10:37:04,763 - WARNING -  * Debugger is active!
+2024-09-12 10:37:04,765 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:37:42,367 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 10:37:42,367 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 10:37:42,369 - INFO -  * Restarting with stat
+2024-09-12 10:37:42,680 - WARNING -  * Debugger is active!
+2024-09-12 10:37:42,681 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:46:43,960 - WARNING -  * Debugger is active!
+2024-09-12 10:46:43,962 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:46:53,939 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 10:46:53,939 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 10:46:53,941 - INFO -  * Restarting with stat
+2024-09-12 10:46:54,253 - WARNING -  * Debugger is active!
+2024-09-12 10:46:54,255 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:49:08,053 - INFO - 127.0.0.1 - - [12/Sep/2024 10:49:08] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:49:08,415 - INFO - 127.0.0.1 - - [12/Sep/2024 10:49:08] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:49:08,537 - INFO -  * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+2024-09-12 10:49:08,594 - INFO -  * Restarting with stat
+2024-09-12 10:49:17,236 - INFO -  * Restarting with stat
+2024-09-12 10:49:18,685 - INFO -  * Restarting with stat
+2024-09-12 10:49:21,138 - INFO -  * Restarting with stat
+2024-09-12 10:50:43,309 - INFO -  * Restarting with stat
+2024-09-12 10:58:05,164 - WARNING -  * Debugger is active!
+2024-09-12 10:58:05,166 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:58:27,481 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 10:58:27,481 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 10:58:27,482 - INFO -  * Restarting with stat
+2024-09-12 10:58:27,820 - WARNING -  * Debugger is active!
+2024-09-12 10:58:27,822 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:58:39,046 - INFO -  * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+2024-09-12 10:58:39,102 - INFO -  * Restarting with stat
+2024-09-12 10:59:47,622 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 10:59:47,622 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 10:59:47,624 - INFO -  * Restarting with stat
+2024-09-12 10:59:47,935 - WARNING -  * Debugger is active!
+2024-09-12 10:59:47,936 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 10:59:53,006 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:53,413 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:53,573 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:53,726 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:53,861 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:54,048 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:54,440 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:54,593 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:54,781 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:55,143 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:55,297 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:55,723 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:55,892 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:56,047 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:56] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:56,239 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:56] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:56,400 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:56] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:56,586 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:56] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:56,773 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:56] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:57,148 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:57] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:57,285 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:57] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:57,449 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:57] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:57,855 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:57] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:57,997 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:57] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:58,137 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:58] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:58,281 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:58] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:58,429 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:58] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:58,630 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:58] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:59,000 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:59] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:59,178 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:59] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:59,365 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:59] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:59,540 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:59] "GET /categories HTTP/1.1" 200 -
+2024-09-12 10:59:59,755 - INFO - 127.0.0.1 - - [12/Sep/2024 10:59:59] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:00,133 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:00] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:00,295 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:00] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:00,442 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:00] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:00,586 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:00] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:00,724 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:00] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:00,862 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:00] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:01,000 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:01] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:01,137 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:01] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:01,276 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:01] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:01,416 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:01] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:01,558 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:01] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:01,696 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:01] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:01,841 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:01] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:01,973 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:01] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:02,117 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:02] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:02,266 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:02] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:02,657 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:02] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:02,797 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:02] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:02,935 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:02] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:03,077 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:03] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:03,218 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:03] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:03,356 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:03] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:03,497 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:03] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:03,636 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:03] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:03,777 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:03] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:03,915 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:03] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:04,107 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:04] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:04,458 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:04] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:04,586 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:04] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:04,746 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:04] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:04,887 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:04] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:05,032 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:05] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:05,176 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:05] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:05,309 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:05] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:05,448 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:05] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:05,588 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:05] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:05,729 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:05] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:05,868 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:05] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:06,006 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:06] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:06,145 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:06] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:06,284 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:06] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:06,425 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:06] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:06,595 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:06] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:06,768 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:06] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:07,174 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:07] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:07,334 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:07] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:07,521 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:07] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:07,897 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:07] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:08,059 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:08] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:08,241 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:08] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:08,390 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:08] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:08,562 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:08] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:08,964 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:08] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:09,137 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:09] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:09,303 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:09] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:09,456 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:09] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:09,633 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:09] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:10,029 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:10] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:10,200 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:10] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:32,537 - INFO - 127.0.0.1 - - [12/Sep/2024 11:00:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:00:32,887 - INFO -  * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+2024-09-12 11:00:32,925 - INFO -  * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 796-707-034
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:43] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:44] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:44] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:57] "OPTIONS /select_category HTTP/1.1" 200 -
+2024-09-12 11:00:57,456 - INFO - Client selected category ID: 2, Description: Dairy
+INFO:app:Client selected category ID: 2, Description: Dairy
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:57] "POST /select_category HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:58] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:59] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:59] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:59] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:59] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:00:59] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:00] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:00] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:00] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:00] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:00] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:00] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:01] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:01] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:01] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:01] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:01] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:02] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:02] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:02] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:02] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:03] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:03] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:03] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:04] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:04] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:04] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:04] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:04] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:04] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:05] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:05] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:05] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:05] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:05] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:06] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:06] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:06] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:06] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:06] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:07] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:07] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:07] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:07] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:08] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:08] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:08] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:08] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:09] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:09] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:09] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:09] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:10] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:10] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:10] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:10] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:10] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:10] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:11] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:11] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:11] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:12] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:12] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:12] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:12] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:13] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:13] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:13] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:13] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:14] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:14] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:14] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:15] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:15] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:15] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:16] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:16] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:16] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:16] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:17] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:17] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:17] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:17] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:18] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2024 11:01:39] "GET /categories HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Miner\\Python Miner\\JohnBryce\\training\\p35_cw_py_flask_logger\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+2024-09-12 11:01:45,778 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 11:01:45,778 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 11:01:45,779 - INFO -  * Restarting with stat
+2024-09-12 11:01:46,146 - WARNING -  * Debugger is active!
+2024-09-12 11:01:46,148 - INFO -  * Debugger PIN: 796-707-034
+2024-09-12 11:01:59,916 - INFO - 127.0.0.1 - - [12/Sep/2024 11:01:59] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:02:07,493 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:07] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:02:07,874 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:07] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:02:08,084 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:08] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:02:51,721 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:51] "OPTIONS /select_category HTTP/1.1" 200 -
+2024-09-12 11:02:51,726 - INFO - Client selected category ID: 3, Description: Bakery
+2024-09-12 11:02:51,726 - INFO - Client selected category ID: 3, Description: Bakery
+2024-09-12 11:02:51,727 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:51] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 11:02:53,952 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:02:54,309 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:02:54,459 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:02:54,608 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:02:54,753 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:02:55,156 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:02:55,297 - INFO - 127.0.0.1 - - [12/Sep/2024 11:02:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:23:59,606 - INFO - 127.0.0.1 - - [12/Sep/2024 11:23:59] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:11,653 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:11] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:12,001 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:12] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:12,143 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:12] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:12,311 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:12] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:12,705 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:12] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:12,859 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:12] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:13,035 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:13] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:13,431 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:13] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:13,599 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:13] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:13,788 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:13] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:13,979 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:13] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:14,362 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:14] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:14,537 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:14] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:14,728 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:14] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:14,894 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:14] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:15,085 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:15] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:15,280 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:15] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:15,462 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:15] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:15,616 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:15] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:15,814 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:15] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:16,211 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:16] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:16,360 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:16] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:16,518 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:16] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:16,672 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:16] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:16,822 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:16] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:16,997 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:16] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:17,384 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:17] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:17,549 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:17] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:17,577 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:17] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:17,948 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:17] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:17,952 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:17] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:20,192 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:20] "OPTIONS /select_category HTTP/1.1" 200 -
+2024-09-12 11:24:20,196 - INFO - Client selected category ID: 2, Description: Dairy
+2024-09-12 11:24:20,196 - INFO - Client selected category ID: 2, Description: Dairy
+2024-09-12 11:24:20,197 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:20] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 11:24:22,469 - INFO - Client selected category ID: 3, Description: Bakery
+2024-09-12 11:24:22,469 - INFO - Client selected category ID: 3, Description: Bakery
+2024-09-12 11:24:22,472 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:22] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 11:24:23,607 - INFO - Client selected category ID: 1, Description: Meat
+2024-09-12 11:24:23,607 - INFO - Client selected category ID: 1, Description: Meat
+2024-09-12 11:24:23,608 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:23] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 11:24:25,503 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:25] "OPTIONS /select_category HTTP/1.1" 200 -
+2024-09-12 11:24:25,506 - INFO - Client selected category ID: 2, Description: Dairy
+2024-09-12 11:24:25,506 - INFO - Client selected category ID: 2, Description: Dairy
+2024-09-12 11:24:25,507 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:25] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 11:24:26,567 - INFO - Client selected category ID: 3, Description: Bakery
+2024-09-12 11:24:26,567 - INFO - Client selected category ID: 3, Description: Bakery
+2024-09-12 11:24:26,568 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:26] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 11:24:29,452 - INFO - Client selected category ID: 2, Description: Dairy
+2024-09-12 11:24:29,452 - INFO - Client selected category ID: 2, Description: Dairy
+2024-09-12 11:24:29,454 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:29] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 11:24:30,619 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:30] "OPTIONS /select_category HTTP/1.1" 200 -
+2024-09-12 11:24:30,623 - INFO - Client selected category ID: 1, Description: Meat
+2024-09-12 11:24:30,623 - INFO - Client selected category ID: 1, Description: Meat
+2024-09-12 11:24:30,624 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:30] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 11:24:32,071 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:32,074 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:32,422 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 11:24:32,427 - INFO - 127.0.0.1 - - [12/Sep/2024 11:24:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:07,842 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-12 14:21:07,843 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-12 14:21:07,844 - INFO -  * Restarting with stat
+2024-09-12 14:21:08,168 - WARNING -  * Debugger is active!
+2024-09-12 14:21:08,170 - INFO -  * Debugger PIN: 962-180-641
+2024-09-12 14:21:15,632 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:15] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:17,929 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:17] "OPTIONS /select_category HTTP/1.1" 200 -
+2024-09-12 14:21:17,933 - INFO - Client selected category ID: 2, Description: Dairy
+2024-09-12 14:21:17,933 - INFO - Client selected category ID: 2, Description: Dairy
+2024-09-12 14:21:17,933 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:17] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 14:21:19,184 - INFO - Client selected category ID: 3, Description: Bakery
+2024-09-12 14:21:19,184 - INFO - Client selected category ID: 3, Description: Bakery
+2024-09-12 14:21:19,185 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:19] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 14:21:21,213 - INFO - Client selected category ID: 1, Description: Meat
+2024-09-12 14:21:21,213 - INFO - Client selected category ID: 1, Description: Meat
+2024-09-12 14:21:21,213 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:21] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 14:21:24,773 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:24] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:25,070 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:25] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:25,196 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:25] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:25,369 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:25] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:25,750 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:25] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:25,910 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:25] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:26,332 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:26] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:26,527 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:26] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:26,930 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:26] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:27,076 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:27] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:27,237 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:27] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:27,620 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:27] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:27,781 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:27] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:27,917 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:27] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:28,059 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:28] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:28,194 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:28] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:28,331 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:28] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:28,472 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:28] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:28,617 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:28] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:28,753 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:28] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:28,909 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:28] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:29,303 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:29] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:29,445 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:29] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:29,594 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:29] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:29,778 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:29] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:29,922 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:29] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:30,092 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:30] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:30,247 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:30] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:30,391 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:30] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:30,529 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:30] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:30,675 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:30] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:30,854 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:30] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:31,223 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:31] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:31,355 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:31] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:31,506 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:31] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:31,641 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:31] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:31,777 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:31] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:31,920 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:31] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:32,061 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:32,197 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:32,341 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:32,475 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:32,618 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:32,764 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:32,904 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:32] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:33,040 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:33] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:33,185 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:33] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:33,352 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:33] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:33,724 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:33] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:33,894 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:33] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:34,294 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:34] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:34,460 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:34] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:34,618 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:34] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:34,788 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:34] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:34,963 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:34] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:35,358 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:35] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:35,533 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:35] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:35,914 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:35] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:36,077 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:36] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:36,476 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:36] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:36,648 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:36] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:36,820 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:36] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:36,990 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:36] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:37,150 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:37] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:37,301 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:37] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:37,448 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:37] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:37,581 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:37] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:37,721 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:37] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:37,863 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:37] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:38,004 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:38] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:38,142 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:38] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:38,277 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:38] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:38,453 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:38] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:38,830 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:38] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:38,968 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:38] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:39,113 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:39] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:39,250 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:39] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:39,392 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:39] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:39,535 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:39] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:39,670 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:39] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:39,807 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:39] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:39,952 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:39] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:40,091 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:40] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:40,231 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:40] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:40,372 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:40] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:40,532 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:40] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:40,925 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:40] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:41,060 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:41] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:41,248 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:41] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:41,610 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:41] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:41,782 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:41] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:42,182 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:42] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:42,587 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:42] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:42,756 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:42] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:42,928 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:42] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:43,098 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:43] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:43,276 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:43] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:43,449 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:43] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:43,625 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:43] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:44,006 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:44] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:44,192 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:44] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:44,580 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:44] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:44,756 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:44] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:45,155 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:45] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:45,325 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:45] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:45,503 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:45] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:45,686 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:45] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:46,085 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:46] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:46,276 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:46] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:46,670 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:46] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:46,839 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:46] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:46,999 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:46] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:47,164 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:47] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:47,337 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:47] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:47,516 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:47] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:47,691 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:47] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:47,859 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:47] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:48,012 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:48] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:48,192 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:48] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:48,594 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:48] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:48,756 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:48] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:49,155 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:49] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:49,329 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:49] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:49,723 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:49] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:49,901 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:49] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:50,081 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:50] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:50,451 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:50] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:50,636 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:50] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:51,084 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:51] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:51,474 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:51] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:51,874 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:51] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:51,995 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:51] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:52,142 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:52] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:52,300 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:52] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:52,717 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:52] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:52,860 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:52] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:53,011 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:53,140 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:53,312 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:53,699 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:53,841 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:53] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:54,256 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:54,408 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:54,561 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:54,712 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:54,888 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:54] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:55,264 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:55,429 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:55,621 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:55,802 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:55,994 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:55] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:56,176 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:56] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:56,361 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:56] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:56,553 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:56] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:56,927 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:56] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:57,089 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:57] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:57,251 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:57] "GET /categories HTTP/1.1" 200 -
+2024-09-12 14:21:59,811 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:59] "OPTIONS /select_category HTTP/1.1" 200 -
+2024-09-12 14:21:59,816 - INFO - Client selected category ID: 2, Description: Dairy
+2024-09-12 14:21:59,816 - INFO - Client selected category ID: 2, Description: Dairy
+2024-09-12 14:21:59,817 - INFO - 127.0.0.1 - - [12/Sep/2024 14:21:59] "POST /select_category HTTP/1.1" 200 -
+2024-09-12 14:22:11,801 - INFO - 127.0.0.1 - - [12/Sep/2024 14:22:11] "OPTIONS /select_category HTTP/1.1" 200 -
+2024-09-12 14:22:11,804 - INFO - Client selected category ID: 3, Description: Bakery
+2024-09-12 14:22:11,804 - INFO - Client selected category ID: 3, Description: Bakery
+2024-09-12 14:22:11,805 - INFO - 127.0.0.1 - - [12/Sep/2024 14:22:11] "POST /select_category HTTP/1.1" 200 -

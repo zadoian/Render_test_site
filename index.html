@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category Selector with Toastify</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        select {
+            padding: 10px;
+            background-color: #333;
+            color: #fff;
+            border: 1px solid #555;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Select a Category</h1>
+    <div id="category-display"></div>
+    
+    <script>
+        const SERVER_URL = "http://127.0.0.1:5000/categories";
+        const SELECT_URL = "http://127.0.0.1:5000/select_category";
+
+        // Fetch categories from the backend
+        axios.get(SERVER_URL)
+            .then(res => {
+                let categories = res.data;
+                let selectHTML = "<select id='category-select' onchange='selectCategory()'>";
+                categories.forEach(cat => {
+                    selectHTML += `<option value="${cat.catid}">${cat.desc}</option>`;
+                });
+                selectHTML += "</select>";
+                document.getElementById('category-display').innerHTML = selectHTML;
+            })
+            .catch(error => console.error('Error fetching categories:', error));
+
+        // Handle category selection
+        const selectCategory = () => {
+            let selectedCategoryId = document.getElementById('category-select').value;
+
+            // Send the selected category to the backend
+            axios.post(SELECT_URL, { catid: selectedCategoryId })
+                .then(res => {
+                    // Show toast notification when category is selected
+                    Toastify({
+                        text: res.data.message,
+                        duration: 3000, // Duration of toast in milliseconds
+                        close: true,    // Show close button
+                        gravity: "top", // Toast position (top/bottom)
+                        position: "center", // Position of the toast
+                        backgroundColor: "linear-gradient(135deg, #4caf50, #2e7d32)", // Gradient background color
+                        stopOnFocus: true, // Stops the timer when hovering the toast
+                        style: {
+                            borderRadius: '10px', // Rounded corners for the toast
+                            boxShadow: '0px 4px 15px rgba(0, 0, 0, 0.5)', // Smooth shadow for the toast
+                        }
+                    }).showToast();
+                })
+                .catch(error => {
+                    // Show error toast if there's an issue
+                    Toastify({
+                        text: error.response.data.error || "An error occurred",
+                        duration: 3000,
+                        close: true,
+                        gravity: "top",
+                        position: "center",
+                        backgroundColor: "linear-gradient(135deg, #ff5f6d, #ffc371)", // Error gradient color
+                        stopOnFocus: true,
+                        style: {
+                            borderRadius: '10px',
+                            boxShadow: '0px 4px 15px rgba(0, 0, 0, 0.5)',
+                        }
+                    }).showToast();
+                });
+        };
+    </script>
+</body>
+</html>
